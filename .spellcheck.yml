@@ -4,3 +4,7 @@ matrix:
   sources:
   - "**/*.txt"
   - "**/*.md"
+
+whitelist:
+  - café
+  - story.md
