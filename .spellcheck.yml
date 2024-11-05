@@ -4,7 +4,3 @@ matrix:
   sources:
   - "**/*.txt"
   - "**/*.md"
-
-dictionary:
-  - café
-  - story.md
