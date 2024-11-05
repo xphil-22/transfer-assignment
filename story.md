@@ -1,0 +1,3 @@
+# The Code That Merged
+
+Lena sat in her favorite café, her laptop open, the cursor blinking as she waited for inspiration to strike. As a software developer, her mind was usually occupied with lines of code, but today she was experimenting with something new—a short story. She’d opened a new file and, without thinking, named it story.md. She chuckled at the thought. Her daily life revolved around Git, branches, and commits; could she bring that into a story?
