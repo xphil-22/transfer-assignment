@@ -5,6 +5,6 @@ matrix:
   - "**/*.txt"
   - "**/*.md"
 
-whitelist:
+dictionary:
   - café
   - story.md
